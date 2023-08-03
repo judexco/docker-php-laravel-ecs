@@ -58,6 +58,10 @@ Thank you for considering contributing to the Laravel framework! The contributio
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
+video links
+https://www.youtube.com/watch?v=2Rc0ta7rC6U
+
+https://karthickcse05.medium.com/deploy-a-dockerized-laravel-application-to-aws-ecs-with-ec2-instance-launch-type-using-github-38758ef7c612
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
